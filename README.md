@@ -2,8 +2,18 @@
 <img src="https://bu.dusays.com/2023/04/12/6436b6115ad92.webp" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center"><🍥>I'm weekdaycare</>
+```
+你好 你好你好你好你好你好            你好你好你好你好你好                      你好你好你好你好你好
+你好你好                你好        你好··             你好                   你好           
+你好你好                 你好        你好                你好                  你好
+你好你好                 你好        你好                  你好                 你好        你好你好你好你好
+你你好你              你好你          你好            你好                       你好                   你好
+你好你好                你好          你好你好你好你好你好                           你好                  你好
+你好你好你好你好你好你好                                                                                     你好
+                                                                                                              你好
+声明：不太会自述所以借了语佬的
+```
+### <div align="center"><🍥>I'm Ayellowdogsays</>
 
 A student who writes the occasional shit mountain of code.</div>  
   
@@ -19,20 +29,4 @@ A student who writes the occasional shit mountain of code.</div>
 - [穿行的列车，下一站是何处？](https://weekdaycare.cn/posts/slilence/)
 <!-- BLOG-POST-LIST:END -->  
 
-## Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🚀 Published release [kernel build for pipa 12](https://github.com/weekdaycare/kernel_xiaomi_sm8250_mod/releases/tag/kernel-build-12) in [weekdaycare/kernel_xiaomi_sm8250_mod](https://github.com/weekdaycare/kernel_xiaomi_sm8250_mod)
-2. ❗ Opened issue [#161](https://github.com/Richasy/Rodel.Player.Public/issues/161) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-3. 🗣 Commented on [#258](https://github.com/std-microblock/breeze-shell/issues/258#issuecomment-3235538205) in [std-microblock/breeze-shell](https://github.com/std-microblock/breeze-shell)
-4. 💪 Opened PR [#1](undefined) in [weekdaycare/kernel_xiaomi_sm8250_mod](https://github.com/weekdaycare/kernel_xiaomi_sm8250_mod)
-5.  Labeled issue [#161](https://github.com/Richasy/Rodel.Player.Public/issues/161) in [Richasy/Rodel.Player.Public](https://github.com/Richasy/Rodel.Player.Public)
-
-
-
-
-<!--END_SECTION:activity-->
-
-## My Bangumi
-
-![](/bgm/card.svg)
