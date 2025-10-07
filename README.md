@@ -13,11 +13,11 @@
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
-- [blog年度总结](https://ayellowdogsays.cn/dogs/20250825b/)
-- [Stellar版本推荐](https://ayellowdogsays.cn/dogs/20250729themes/)
-- [hexo永久地址](https://ayellowdogsays.cn/dogs/20250724hexo987654321234678/)
-- [stellar主题修改](https://ayellowdogsays.cn/dogs/20250724dogcarebyyeuios]a/)
-- [阿黄说部署](https://ayellowdogsays.cn/dogs/20250715123/)
+- [10月6日公告栏](https://ayellowdogsays.cn/md)
+- [blog年度总结](https://ayellowdogsays.cn/ndzjyx)
+- [Stellar版本推荐](https://ayellowdogsays.cn/4)
+- [hexoURL优化](https://ayellowdogsays.cn/2)
+- [救命啊啊啊啊！给vscode报错求解了](https://ayellowdogsays.cn/3)
 <!-- BLOG-POST-LIST:END -->  
 
 
