@@ -14,10 +14,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [blog年度总结](https://ayellowdogsays.cn/dogs/20250825b/)
-- [Stellar版本推荐](https://ayellowdogsays.cn/dogs/20250729themes/)
 - [hexo永久地址](https://ayellowdogsays.cn/dogs/20250724hexo987654321234678/)
 - [stellar主题修改](https://ayellowdogsays.cn/dogs/20250724dogcarebyyeuios]a/)
-- [阿黄说部署](https://ayellowdogsays.cn/dogs/20250715123/)
+- [stellar主题修改](https://ayellowdogsays.cn/dogs/20250724e%20-%20%E5%89%AF%E6%9C%AC%20-%20%E5%89%AF%E6%9C%AC/)
+- [hexoURL优化](https://ayellowdogsays.cn/dogs/202502151234/)
 <!-- BLOG-POST-LIST:END -->  
 
 
