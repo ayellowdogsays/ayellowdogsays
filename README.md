@@ -13,11 +13,9 @@
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
-- [blog年度总结](https://ayellowdogsays.cn/dogs/20250825b/)
-- [hexo永久地址](https://ayellowdogsays.cn/dogs/20250724hexo987654321234678/)
-- [stellar主题修改](https://ayellowdogsays.cn/dogs/20250724dogcarebyyeuios]a/)
-- [stellar主题修改](https://ayellowdogsays.cn/dogs/20250724e%20-%20%E5%89%AF%E6%9C%AC%20-%20%E5%89%AF%E6%9C%AC/)
-- [hexoURL优化](https://ayellowdogsays.cn/dogs/202502151234/)
+- [hexo永久地址](https://ayellowdogsays.cn/posts/37b3a34e/)
+- [stellar主题修改](https://ayellowdogsays.cn/posts/444c6a5d/)
+- [Stellar可控夜间模式](https://ayellowdogsays.cn/posts/48297/)
 <!-- BLOG-POST-LIST:END -->  
 
 
