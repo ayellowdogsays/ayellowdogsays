@@ -13,9 +13,11 @@
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
-- [hexo永久地址](https://ayellowdogsays.cn/posts/37b3a34e/)
-- [stellar主题修改](https://ayellowdogsays.cn/posts/444c6a5d/)
-- [Stellar可控夜间模式](https://ayellowdogsays.cn/posts/48297/)
+- [blog年度总结](https://blog.ayellowdogsays.cn/b)
+- [hexo永久地址](https://blog.ayellowdogsays.cn/hexo987654321234678)
+- [stellar主题修改](https://blog.ayellowdogsays.cn/dogcarebyyeuiosa)
+- [stellar主题修改](https://blog.ayellowdogsays.cn/e)
+- [Stellar可控夜间模式](https://blog.ayellowdogsays.cn/e)
 <!-- BLOG-POST-LIST:END -->  
 
 
