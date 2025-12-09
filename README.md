@@ -16,8 +16,8 @@
 - [blog年度总结](https://ayellowdogsays.cn/b)
 - [hexo永久地址](https://ayellowdogsays.cn/hexo987654321234678)
 - [stellar主题修改](https://ayellowdogsays.cn/dogcarebyyeuiosa)
-- [stellar主题修改](https://ayellowdogsays.cn/e)
-- [Stellar可控夜间模式](https://ayellowdogsays.cn/e)
+- [stellar主题修改](https://ayellowdogsays.cn/1)
+- [Stellar可控夜间模式](https://ayellowdogsays.cn/6)
 <!-- BLOG-POST-LIST:END -->  
 
 
