@@ -13,8 +13,8 @@
 ## Recent Blog Posts  
 
 <!-- BLOG-POST-LIST:START -->
-- [blog年度总结](https://f12ahs.top/dogs/20250825b/)
-- [Stellar可控夜间模式](https://f12ahs.top/dogs/20250215e%20-%20%E5%89%AF%E6%9C%AC/)
+- [我用AI做的网站-1 笔记本](https://f12ahs.top/2)
+- [又换了框架，还是选了纸鹿大佬的Clarity](https://f12ahs.top/1)
 <!-- BLOG-POST-LIST:END -->  
 
 
